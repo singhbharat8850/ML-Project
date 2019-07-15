@@ -1,0 +1,50 @@
+
+{
+
+    "dir": "ltr",
+
+    "lang": "en",
+
+    "name": "Bharat Singh",
+
+    "scope": "/",
+
+    "display": "fullscreen",
+
+    "start_url": "https://github.com/singhbharat8850/Portfolio",
+
+    "short_name": "Bharat",
+
+    "theme_color": "#212121",
+
+    "description": "Bharat's Portfolio. IIIT Trichy. Developer, Dreamer, Achiever.",
+
+    "orientation": "any",
+
+    "background_color": "transparent",
+
+    "related_applications": [],
+
+    "prefer_related_applications": false,
+
+    "icons": [
+
+        {
+
+            "src": "/images/img/favicon.ico",
+
+            "sizes": "16x16"
+
+        },
+
+        {
+
+            "src": "/images/img/favicon.ico",
+
+            "sizes": "16x16"
+
+        }
+
+    ]
+
+}
